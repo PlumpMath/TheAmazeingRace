@@ -1,0 +1,13 @@
+<CoordinateSystem> { Z-Up }
+
+<Comment> {
+  "dxf2egg room1.dxf room1.egg"
+}
+<Group> Default {
+  <VertexPool> Default {
+  }
+}
+<Group> 0 {
+  <VertexPool> 0 {
+  }
+}
